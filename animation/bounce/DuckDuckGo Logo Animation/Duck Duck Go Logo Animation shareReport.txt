@@ -1,0 +1,67 @@
+Report created: 
+	5/13/2011	9:57:45 AM
+
+Project name: Duck Duck Go Logo Animation share.aep
+
+Source files collected to: 
+	C:\Users\Greg2Burrus\Creative Work\Dailyish Projtects\Done With\~FAVs\duckduck go\AE\DuckDuckGo Logo Animation
+
+Source files collected: All
+
+Collected comps:  
+	Duck Duck Go Logo Animation
+	Duck Duck Go Base Char
+	EYE RIGHT Comp
+	EYE LEFT Comp
+	Ducky Logo Circle
+	efx_comics12_duck02
+	Duck Duck Go Logo Animation MASTER
+	
+Number of collected files:  12
+
+Size of collected files:  1.1 MB
+
+Collected source files: 
+	C:\Users\Greg2Burrus\Creative Work\Dailyish Projtects\Done With\~FAVs\duckduck go\audio\5919_suonho_LiveCutting_riseupndown01_Suonho.wav
+	C:\Users\Greg2Burrus\Creative Work\Dailyish Projtects\Done With\~FAVs\duckduck go\audio\66136_theta4_ding30603_spedup.wav
+	C:\Users\Greg2Burrus\Creative Work\Dailyish Projtects\Done With\~FAVs\duckduck go\audio\Dull Boing.WAV
+	C:\Users\Greg2Burrus\Creative Work\Dailyish Projtects\Done With\~FAVs\duckduck go\audio\efx_comics11_duck01.mp3
+	C:\Users\Greg2Burrus\Creative Work\Dailyish Projtects\Done With\~FAVs\duckduck go\audio\efx_comics12_duck02.mp3
+	C:\Users\Greg2Burrus\Creative Work\Dailyish Projtects\Done With\~FAVs\duckduck go\audio\efx_comics13_duck03.mp3
+	C:\Users\Greg2Burrus\Creative Work\Dailyish Projtects\Done With\~FAVs\duckduck go\audio\efx_comics14_ducky.mp3
+	C:\Users\Greg2Burrus\Creative Work\Dailyish Projtects\Done With\~FAVs\duckduck go\audio\RinkyDink.mp3
+	C:\Users\Greg2Burrus\Creative Work\Dailyish Projtects\Done With\~FAVs\duckduck go\audio\Whip 02.wav
+	C:\Users\Greg2Burrus\Creative Work\Dailyish Projtects\Done With\~FAVs\duckduck go\audio\Whip 03.wav
+	C:\Users\Greg2Burrus\Creative Work\Dailyish Projtects\Done With\~FAVs\duckduck go\audio\Whip 04.wav
+	C:\Users\Greg2Burrus\Creative Work\Dailyish Projtects\Done With\~FAVs\duckduck go\logo\DDG Logo AE Ready.ai
+	
+Rendering plug-ins:
+	Advanced 3D
+	
+Effects used:  10
+
+Effect:  Angle Control
+	
+Effect:  CC Bend It
+	
+Effect:  CC Wide Time
+	
+Effect:  Checkbox Control
+	
+Effect:  Point Control
+	
+Effect:  Puppet
+	
+Effect:  Ramp
+	
+Effect:  Reverb
+	
+Effect:  Slider Control
+	
+Effect:  Warp
+	
+
+Layer:  Text Layer
+	External dependencies:  
+		Font family: 'Century Gothic', Font style: 'Regular'
+
